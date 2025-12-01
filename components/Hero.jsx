@@ -3,7 +3,7 @@ export default function Hero() {
     <section id="home" className="py-20 px-6 bg-white">
       <div className="container mx-auto max-w-6xl">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 text-black tracking-tight">
-          Learn AI Implementation from the Educator Actually Using It Across Multiple Businesses
+          Learn AIs Implementation from the Educator Actually Using It Across Multiple Businesses
         </h1>
         
         <div className="mb-10 text-lg text-zinc-700 leading-relaxed">
